@@ -94,7 +94,8 @@
                 android:id="@+id/imageView3"
                 android:layout_width="25dp"
                 android:layout_height="25dp"
-                android:src="@drawable/data"
+                android:src="@drawable/ic_baseline_menu_book_24"
+                android:background="#4CAF50"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
 
@@ -134,7 +135,8 @@
             <ImageView
                 android:layout_width="25dp"
                 android:layout_height="25dp"
-                android:src="@drawable/data"
+                android:src="@drawable/ic_baseline_menu_book_24"
+                android:background="#03A9F4"
                 tools:ignore="MissingConstraints" />
 
             <TextView
@@ -171,7 +173,8 @@
             <ImageView
                 android:layout_width="25dp"
                 android:layout_height="25dp"
-                android:src="@drawable/data"
+                android:src="@drawable/ic_baseline_menu_book_24"
+                android:background="#E91E63"
                 tools:ignore="MissingConstraints" />
 
             <TextView
@@ -207,7 +210,8 @@
             <ImageView
                 android:layout_width="25dp"
                 android:layout_height="25dp"
-                android:src="@drawable/data"
+                android:src="@drawable/ic_baseline_menu_book_24"
+                android:background="#FF9800"
                 tools:ignore="MissingConstraints" />
 
             <TextView
